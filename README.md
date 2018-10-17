@@ -9,4 +9,4 @@ Try Flow Studio here: https://flowstudio.app https://flow-studio.azurewebsites.n
 
 # Status
 
-Flow Studio is in Open Alpha
+Flow Studio is in Open Trial
