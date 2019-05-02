@@ -5,7 +5,7 @@ This is a public repo tracking issues and feedback related to Flow Studio
 
 Read more about Flow Studio here: https://johnliu.net/flow-studio
 
-Try Flow Studio here: https://flowstudio.app https://flow-studio.azurewebsites.net/
+Try Flow Studio here: https://flowstudio.app 
 
 # Status
 
